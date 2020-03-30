@@ -10,6 +10,8 @@ O foco do projeto são para as ONG's que cuidam de animais :cat: :dog: :hatched_
 
 Foi dividido em 3 partes, back-end, front-end e mobile. Tudo feito com **JavaScript***.
 
+----
+
 ### back-end :hammer:
 
 O back-end foi feito utilizando [Noje.js](https://nodejs.org/en/) e nele implementamos algumas funcionalidades:
@@ -29,6 +31,8 @@ Nessa parte do projeto, utilizamos como dependências:
 * [**jest**](https://jestjs.io/) :heavy_check_mark:, para os testes de unitários e de integração.
 * [**supertest**](https://github.com/visionmedia/supertest) :muscle::heavy_check_mark:, também para os testes, mas mais especificamente para os testes de integração, assim pudemos realizar chamadas as rotas criadas em cada controller.
 
+----
+
 ### front-end :chart_with_upwards_trend:
 
 No front-end, a tecnologia utilizada foi [ReactJS](https://reactjs.org/). O melhor dessa tecnologia e ver que não é necessário recarregar as páginas para ir ou voltar de uma tela. O site é focado nas ONG's que precisam de ajuda.
@@ -38,17 +42,25 @@ Ao todo, criamos 4 páginas:
   
 ![Login](https://github.com/mateusvoltolim/be-the-hero/blob/master/readme-images/login-be-the-hero.png)
 
+----
+
 * **Cadastro de ONG's**
 
 ![Cadastro de ONG's](https://github.com/mateusvoltolim/be-the-hero/blob/master/readme-images/cadastro-ong-be-the-hero.png)
+
+----
 
 * **Cadastro de Casos**
 
 ![Cadastro de Casos](https://github.com/mateusvoltolim/be-the-hero/blob/master/readme-images/cadastro-casos-be-the-hero.png)
 
+----
+
 * **Listagem dos Casos**
 
 ![Listagem dos Casos](https://github.com/mateusvoltolim/be-the-hero/blob/master/readme-images/listagem-casos-be-the-hero.png)
+
+----
 
 ### mobile :iphone:
 
@@ -62,9 +74,13 @@ Bom, foram criados 3 telas no app:
 
 ![Loading](https://github.com/mateusvoltolim/be-the-hero/blob/master/readme-images/loading-app-be-the-hero.png)
 
+----
+
 * **Listagem dos Casos**
 
 ![Listagem dos Casso](https://github.com/mateusvoltolim/be-the-hero/blob/master/readme-images/listagem-casos-app-be-the-hero.png)
+
+----
 
 * **Detalhes dos Casos**
 
