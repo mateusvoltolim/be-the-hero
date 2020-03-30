@@ -52,7 +52,7 @@ Ao todo, criamos 4 páginas:
 
 ### mobile :iphone:
 
-Seguindo o mesmo caminho, utilizamos [React Native](https://reactnative.dev/) para a versão mobile, focado no **herói** que quer ajudar nos casos.
+Seguindo o mesmo caminho, utilizamos [React Native](https://reactnative.dev/) para a versão mobile, focado no **herói** que quer ajudar nos casos. Usamos o [expo](https://expo.io/) para conseguirmos ver as alterações em tempo real feitas no app.
 
 Pude percerber que não existe a mesma semântica que existe no HTML, e apesar de serem parecidos, há comportamentos bem diferentes, como por exemplo, um elemento filho não herdar as propriedades do pai. Sem falar, que é JavaScript pra todo lado, o layout é feito em JavaScript e a estilização também.
 
