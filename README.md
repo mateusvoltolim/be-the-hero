@@ -33,6 +33,12 @@ Nessa parte do projeto, utilizamos como dependências:
 
 ----
 
+#### Como executar
+
+Após executar **npm install**, executar **npm start** no console.
+
+----
+
 ### front-end :chart_with_upwards_trend:
 
 No front-end, a tecnologia utilizada foi [ReactJS](https://reactjs.org/). O melhor dessa tecnologia e ver que não é necessário recarregar as páginas para ir ou voltar de uma tela. O site é focado nas ONG's que precisam de ajuda.
@@ -62,6 +68,12 @@ Ao todo, criamos 4 páginas:
 
 ----
 
+#### Como executar
+
+Após executar **npm install**, executar **npm start** no console.
+
+----
+
 ### mobile :iphone:
 
 Seguindo o mesmo caminho, utilizamos [React Native](https://reactnative.dev/) para a versão mobile, focado no **herói** que quer ajudar nos casos. Usamos o [expo](https://expo.io/) para conseguirmos ver as alterações em tempo real feitas no app.
@@ -85,6 +97,13 @@ Bom, foram criados 3 telas no app:
 * **Detalhes dos Casos**
 
 ![Detalhes dos Casos](https://github.com/mateusvoltolim/be-the-hero/blob/master/readme-images/detalhes-do-caso-app-be-the-hero.png)
+
+----
+
+
+#### Como executar
+
+Após executar **npm install**, executar **expo start** no console.
 
 ----
 
